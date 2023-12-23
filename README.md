@@ -16,7 +16,6 @@ I'm Kaan, a student studying computer science. When I have time, I work on diffe
 <ul>
 <li>React.JS</li>
 <li>Node.JS</li>
-<li>OpenCV</li>
 </ul>
 </details>
 
