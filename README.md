@@ -4,10 +4,8 @@ I'm Kaan, a student studying computer science. When I have time, I work on diffe
 <details>
 <summary>Languages I use</summary>
 <ul>
-<li>JavaScript</li>
 <li>C/C++</li>
-<li>HTML/CSS</li>
-<li>Python</li>
+<li>JavaScript</li>
 </ul>
 </details>
 <details>
@@ -24,5 +22,3 @@ I'm Kaan, a student studying computer science. When I have time, I work on diffe
 - YTLoader - YouTube video downloader and converter.
 - ImgConvert - Convert images into different file formats online.
 - CS:Forecaster - CS:GO item price predictor using ARIMA.
-
-Of course, these are only a few of many. You will find many more projects here on my profile! Thanks for visiting :)
