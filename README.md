@@ -1,5 +1,5 @@
 # Hey, welcome! 👋
-I'm Kaan, a student studying computer science. When I have time, I work on different projects to expand my knowledge in different programming languages such as JavaScript and C++ and also learn a greater range of topics, ranging from hardware drivers to machine learning. The opportunity presented in this subject is endless and I am willing and eager to learn new things and face new challenges!
+I'm Kaan, a person passionate about technology! My academic background is in Computer Science, where I focused on machine learning and cybersecurity. However, I enjoy tinkering with different technologies and stacks as part of my side projects and hobbies!
 
 <details>
 <summary>Languages I use</summary>
